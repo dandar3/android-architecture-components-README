@@ -11,6 +11,7 @@
 
 Android Architecture Components **1.1.0** components available:
 - [android-arch-lifecycle-livedata-core](https://github.com/dandar3/android-arch-lifecycle-livedata-core/tree/1.1.0)<br/>
+- [android-arch-lifecycle-viewmodel](https://github.com/dandar3/android-arch-lifecycle-livedata-viewmodel/tree/1.1.0)<br/>
 - [android-arch-lifecycle-runtime](https://github.com/dandar3/android-arch-lifecycle-runtime/tree/1.1.0)<br/>
 - [android-arch-lifecycle-common](https://github.com/dandar3/android-arch-lifecycle-common/tree/1.1.0)
 - [android-arch-core-runtime](https://github.com/dandar3/android-arch-core-runtime/tree/1.1.0)<br/>
